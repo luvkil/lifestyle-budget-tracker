@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": ""
   },
   "author": "",
-  "license": "ISC",
+  "license": "git",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^10.0.0",
